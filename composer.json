@@ -1,0 +1,12 @@
+{
+    "name": "williams/connectship-connector-php",
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "require-dev": {
+        "wsdl2phpgenerator/wsdl2phpgenerator": "^3.4"
+    },
+    "autoload": {
+        "psr-4": { "Williams\\ConnectShip\\": "src" }
+    }
+}
